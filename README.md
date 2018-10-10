@@ -68,7 +68,7 @@ The provided surus jar
 Contributors
 ------------
 
-github.com/mylons
+github.com/blackhoundnate
 
 Contributing
 ------------
@@ -78,7 +78,7 @@ Check it out
 Contact
 -------
 
-mrlyons@gmail.com
+nate@blackhound.io
 
 
 License
